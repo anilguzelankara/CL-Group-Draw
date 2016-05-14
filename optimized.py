@@ -49,4 +49,3 @@ drawGroups("E")
 drawGroups("F")
 drawGroups("G")
 drawGroups("H")
-
